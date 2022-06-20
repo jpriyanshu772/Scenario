@@ -61,7 +61,7 @@ Demo bot - @anonymous_4_robot
     </br>
 #### First fill all vars in config.py
 ```console
-git clone https://github.com/TeamScenario/Scenario && cd Scenario && pip3 install -U -r requirements.txt && python -m scenario
+git clone https://github.com/jpriyanshu772/Scenario && cd Scenario && pip3 install -U -r requirements.txt && python -m scenario
 ```
 If android then execute this cd command ```cd /storage/emulated/0/scenario``` else only cd Scenario
 </details>
